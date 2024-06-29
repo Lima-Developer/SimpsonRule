@@ -26,12 +26,12 @@
   </ul>
   <h3>Resultado das Diferenças</h3>
   <p align="justify">O resultado que obtivemos é de que na primeira parte do dia, é de que o consumo de energia elétrica é maior que o fornecimento, enquanto na segunda parte do dia temos que o fornecimento de energia elétrica para a rede é maior do que o valor em kWh consumido e por fim, na terceira parte do dia, voltamos a ter um valor de consumo de energia elétrica maior do que o de fornecimento</p>
-  <div>
+  <div align="center">
     <img src="https://github.com/Lima-Developer/SimpsonRule/assets/142065676/dbab110f-3bdc-45e5-9e1d-dc6bc2360a28">
   </div>
   <h3>Conclusão</h3>
   <p>Em suma, aplicando-se os valores em cents referentes ao fornecimento e consumo de energia, percebemos que o produtor teria um lucro de $289.72</p>
-  <div>
+  <div align="center">
     <img src="https://github.com/Lima-Developer/SimpsonRule/assets/142065676/182594ee-4e07-4e11-9d62-84b6a75c581b">
   </div>
 </ol>
